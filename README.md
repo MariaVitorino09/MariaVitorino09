@@ -63,20 +63,20 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 │                  MARIA.DEV // MISSION CONTROL              │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [01] ███████████████░░░░░  LEARN REACT                    │
+│  [01] ███████████████░░░░░  LEARN REACT                  │
 │                                                            │
-│  [02] ████████████████░░░░  IMPROVE PROGRAMMING            │
+│  [02] ████████████████░░░░  IMPROVE PROGRAMMING          │
 │                                                            │
-│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS           │
+│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS         │
 │                                                            │
-│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP        │
+│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP      │
 │                                                            │
-│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT      │
+│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT    │
 │                                                            │
-│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV        │
+│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV      │
 │                                                            │
 ├────────────────────────────────────────────────────────────┤
-│  STATUS :: LEARNING / BUILDING / EVOLVING                  │
+│  STATUS :: LEARNING / BUILDING / EVOLVING                │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
@@ -127,14 +127,14 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 
 <div align="center">
 
-### `SELECTED PROJECT`
+### `SELECTED PROJECTS`
 
 </div>
 
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### `PROJECT_01`
 
@@ -158,9 +158,41 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 
 </td>
 
+<td width="50%" valign="top">
+
+### `PROJECT_02`
+
+**googleMusic**
+
+> Sistema intuitivo para catalogar e organizar instrumentos musicais através do registro detalhado de sua família, marca e luthier.
+
+**STACK**
+
+`Java` `HTML` `CSS` `JavaScript` `MySQL`
+
+**STATUS**
+
+`COMPLETED`
+
+<br>
+
+<a href="https://github.com/projeto-musical/googleMusic">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A8C3A0?style=for-the-badge&logo=github&logoColor=171A18&labelColor=304233"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+
+</td>
+
 </tr>
 </table>
-
 ---
 
 ## `06 // GITHUB_ANALYTICS`
@@ -291,14 +323,14 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 ```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│        LEARN. BUILD. EVOLVE.                       │
+│        LEARN. BUILD. EVOLVE.                      │
 │                                                    │
-│        SOFTWARE DEVELOPMENT                        │
+│        SOFTWARE DEVELOPMENT                       │
 │        WEB DEVELOPMENT                             │
 │        FULL STACK // FUTURE TARGET                 │
 │                                                    │
-│        STATUS :: ONLINE                            │
-│        VERSION :: 2026                             │
+│        STATUS :: ONLINE                           │
+│        VERSION :: 2026                            │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
 ```
