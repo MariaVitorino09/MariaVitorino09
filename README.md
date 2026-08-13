@@ -63,20 +63,20 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 │                  MARIA.DEV // MISSION CONTROL              │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [01] ███████████████░░░░░  LEARN REACT                  │
+│  [01] ███████████████░░░░░  LEARN REACT                    │
 │                                                            │
-│  [02] ████████████████░░░░  IMPROVE PROGRAMMING          │
+│  [02] ████████████████░░░░  IMPROVE PROGRAMMING            │
 │                                                            │
-│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS         │
+│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS           │
 │                                                            │
-│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP      │
+│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP        │
 │                                                            │
-│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT    │
+│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT      │
 │                                                            │
-│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV      │
+│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV        │
 │                                                            │
 ├────────────────────────────────────────────────────────────┤
-│  STATUS :: LEARNING / BUILDING / EVOLVING                │
+│  STATUS :: LEARNING / BUILDING / EVOLVING                  │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
@@ -192,6 +192,7 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 </td>
 
 </tr>
+</table> 
 
 ---
 
@@ -323,14 +324,14 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 ```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│        LEARN. BUILD. EVOLVE.                      │
+│        LEARN. BUILD. EVOLVE.                       │
 │                                                    │
-│        SOFTWARE DEVELOPMENT                       │
+│        SOFTWARE DEVELOPMENT                        │
 │        WEB DEVELOPMENT                             │
 │        FULL STACK // FUTURE TARGET                 │
 │                                                    │
-│        STATUS :: ONLINE                           │
-│        VERSION :: 2026                            │
+│        STATUS :: ONLINE                            │
+│        VERSION :: 2026                             │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
 ```
