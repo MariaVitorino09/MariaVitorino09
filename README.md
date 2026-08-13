@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D0D0D,50:18251D,100:0D0D0D&text=MARIA%20VITORINO&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20%7C%20WEB%20%7C%203D&descAlignY=58&descSize=15&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:171A18,50:304233,100:171A18&text=MARIA%20VITORINO&fontColor=F5F7F3&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20%7C%20PROGRAMMING%20%7C%20FULL%20STACK&descAlignY=58&descSize=15&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9DB8A5&center=true&vCenter=true&width=650&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%7C+ACCESS+GRANTED;%3E+STUDENT+%7C+DEVELOPMENT+SYSTEMS;%3E+BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME.;%3E+WELCOME+TO+MY+DIGITAL+SPACE." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=A8C3A0&center=true&vCenter=true&width=700&lines=%3E+INITIALIZING+DEVELOPER+PROFILE...;%3E+SYSTEM+ONLINE+%7C+ACCESS+GRANTED;%3E+SYSTEMS+DEVELOPMENT+STUDENT;%3E+BUILDING+MY+PATH+TO+FULL+STACK;%3E+LEARN.+BUILD.+EVOLVE." alt="Typing SVG"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9DB8A5?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/STATUS-STUDENT-FFFFFF?style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-9DB8A5?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-A8C3A0?style=for-the-badge&labelColor=304233"/>
+<img src="https://img.shields.io/badge/STATUS-STUDENT-F5F7F3?style=for-the-badge&labelColor=304233"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-C7D8C2?style=for-the-badge&labelColor=304233"/>
 
 </div>
 
@@ -18,59 +18,65 @@
 
 ## `01 // ABOUT_ME`
 
-> **"Transformando curiosidade em código, ideias em sistemas e projetos em experiências."**
+> **"Transformando curiosidade em código, ideias em sistemas e aprendizado em experiência."**
 
-Olá! Eu sou **Maria Vitorino**, estudante do **Ensino Médio Técnico em Desenvolvimento de Sistemas pelo SENAI**, apaixonada por tecnologia, programação e criação de projetos.
+Olá! Eu sou **Maria Vitorino**, estudante do **Ensino Médio Técnico em Desenvolvimento de Sistemas pelo SENAI**.
 
-Atualmente, estou construindo minha base em desenvolvimento de software enquanto exploro diferentes áreas da tecnologia — desde **desenvolvimento web e bancos de dados até programação, modelagem 3D e experiências interativas**.
+Atualmente, estou construindo minha base em **desenvolvimento de software**, com foco em **programação, desenvolvimento web e bancos de dados**.
 
-Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnologias e transformar ideias criativas em projetos reais.
+Gosto de aprender novas tecnologias através de projetos práticos, buscando transformar ideias em soluções reais e evoluir constantemente minhas habilidades.
+
+Meu objetivo é continuar crescendo na área de desenvolvimento e, futuramente, atuar como **desenvolvedora Full Stack**.
+
+Também exploro tecnologias diferentes em projetos específicos, como **Unity e Blender**, mas meu foco principal está em **programação e desenvolvimento de sistemas**.
 
 ```text
 ┌──────────────────────────────────────────────────────┐
 │                  DEVELOPER_PROFILE                   │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│  NAME       :: Maria Vitorino                        │
-│  ROLE       :: Technical High School Student         │
-│  COURSE     :: Systems Development                   │
-│  INSTITUTION:: SENAI                                 │
-│  FOCUS      :: Web Development / Software            │
-│  LEARNING   :: Full Stack Development                 │
-│  INTERESTS  :: Code / 3D / VR / Creative Technology │
+│  NAME        :: Maria Vitorino                       │
+│  ROLE        :: Systems Development Student          │
+│  INSTITUTION :: SENAI                                │
+│  LEVEL       :: Technical High School                │
+│                                                      │
+│  MAIN FOCUS  :: Programming & Web Development        │
+│  GOAL        :: Full Stack Development               │
+│                                                      │
+│  CURRENTLY   :: Learning / Building / Evolving       │
 │                                                      │
 └──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `02 // CURRENT_PROTOCOL`
+## `02 // CURRENT_MISSION`
 
 <div align="center">
 
-### `> CURRENT OBJECTIVES`
+### `> DEVELOPMENT OBJECTIVES`
 
 </div>
 
 ```text
 ╭────────────────────────────────────────────────────────────╮
-│                 MARIA.DEV // MISSION CONTROL               │
+│                  MARIA.DEV // MISSION CONTROL              │
 ├────────────────────────────────────────────────────────────┤
 │                                                            │
-│  [01] ███████████████░░░░░  LEARN REACT                   │
+│  [01] ███████████████░░░░░  LEARN REACT                  │
 │                                                            │
-│  [02] ████████████████░░░░  IMPROVE PROGRAMMING           │
+│  [02] ████████████████░░░░  IMPROVE PROGRAMMING          │
 │                                                            │
-│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS          │
+│  [03] ████████████░░░░░░░░  BUILD UNITY PROJECTS         │
 │                                                            │
-│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP       │
+│  [04] ███████████░░░░░░░░░  GET MY FIRST INTERNSHIP      │
 │                                                            │
-│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT     │
+│  [05] ██████████████░░░░░░  EVOLVE IN WEB DEVELOPMENT    │
 │                                                            │
-│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV       │
+│  [06] ██████████░░░░░░░░░░  BECOME A FULL STACK DEV      │
 │                                                            │
 ├────────────────────────────────────────────────────────────┤
-│  STATUS :: LEARNING / BUILDING / EVOLVING                 │
+│  STATUS :: LEARNING / BUILDING / EVOLVING                │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
@@ -80,15 +86,21 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 <div align="center">
 
-### `LANGUAGES`
+### `PROGRAMMING & WEB`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,mysql&theme=light"/>
 
 <br><br>
 
-### `TOOLS & TECHNOLOGIES`
+### `TOOLS & WORKFLOW`
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,blender,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman&theme=light"/>
+
+<br><br>
+
+### `PROJECT TECHNOLOGIES`
+
+<img src="https://skillicons.dev/icons?i=blender,unity&theme=light"/>
 
 </div>
 
@@ -96,15 +108,18 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 ## `04 // TECHNOLOGY_MATRIX`
 
-| Category          | Technologies                                  |
-| :---------------- | :-------------------------------------------- |
-| `LANGUAGES`       | HTML · CSS · JavaScript · Java · Python · SQL |
-| `WEB`             | HTML · CSS · JavaScript                       |
-| `DATABASE`        | MySQL                                         |
-| `3D / CREATIVE`   | Blender                                       |
-| `VERSION CONTROL` | Git · GitHub                                  |
-| `API / TESTING`   | Postman                                       |
-| `DEVELOPMENT`     | VS Code · Java · Python                       |
+| Category          | Technologies               |
+| :---------------- | :------------------------- |
+| `PROGRAMMING`     | Java · Python · JavaScript |
+| `WEB DEVELOPMENT` | HTML · CSS · JavaScript    |
+| `DATABASE`        | MySQL · SQL                |
+| `VERSION CONTROL` | Git · GitHub               |
+| `API / TESTING`   | Postman                    |
+| `DEVELOPMENT`     | VS Code                    |
+| `PROJECTS`        | Unity · Blender            |
+
+> **MAIN FOCUS:** Programming → Web Development → Full Stack
+> **COMPLEMENTARY:** Unity → Blender → Experimental Projects
 
 ---
 
@@ -127,18 +142,18 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 > Nosso objetivo é deixar os estacionamentos mais tecnológicos e práticos para nossos clientes, unindo a robustez da engenharia à fluidez tecnológica.
 
-**Stack**
+**STACK**
 
 `Java` `HTML` `CSS` `JavaScript` `Python` `MySQL`
 
-**Status**
+**STATUS**
 
 `IN DEVELOPMENT`
 
 <br>
 
 <a href="https://github.com/ESTATEC-The-Rockets/projeto-estatec">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9DB8A5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A8C3A0?style=for-the-badge&logo=github&logoColor=171A18&labelColor=304233"/>
 </a>
 
 </td>
@@ -149,20 +164,20 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 **googleMusic**
 
-> O Google Music é um sistema intuitivo para catalogar e organizar instrumentos musicais através do registro detalhado de sua família, marca e luthier.
+> Sistema intuitivo para catalogar e organizar instrumentos musicais através do registro detalhado de sua família, marca e luthier.
 
-**Stack**
+**STACK**
 
 `Java` `HTML` `CSS` `JavaScript` `MySQL`
 
-**Status**
+**STATUS**
 
 `COMPLETED`
 
 <br>
 
 <a href="https://github.com/projeto-musical/googleMusic">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-9DB8A5?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A8C3A0?style=for-the-badge&logo=github&logoColor=171A18&labelColor=304233"/>
 </a>
 
 </td>
@@ -173,17 +188,80 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 <td width="50%" valign="top">
 
+### `PROJECT_03`
+
+**SEU-PROJETO**
+
+> Descrição curta do projeto, seu objetivo e principais funcionalidades.
+
+**STACK**
+
+`Python` `MySQL`
+
+**STATUS**
+
+`IN DEVELOPMENT`
+
+<br>
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A8C3A0?style=for-the-badge&logo=github&logoColor=171A18&labelColor=304233"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### `PROJECT_04`
+
+**SEU-PROJETO**
+
+> Projeto complementar ou experimental desenvolvido durante seus estudos.
+
+**STACK**
+
+`Unity` `Blender`
+
+**STATUS**
+
+`EXPERIMENTAL`
+
+<br>
+
+<a href="SEU_LINK_AQUI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-A8C3A0?style=for-the-badge&logo=github&logoColor=171A18&labelColor=304233"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+### `> PROJECT_TEMPLATE`
+
+Para adicionar novos projetos, copie qualquer card acima e altere:
+
+```text
+PROJECT NAME
+DESCRIPTION
+TECH STACK
+STATUS
+GITHUB LINK
+```
+
+---
+
 ## `06 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaVitorino09&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=9DB8A5&icon_color=9DB8A5&text_color=FFFFFF&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MariaVitorino09&show_icons=true&theme=transparent&hide_border=true&title_color=A8C3A0&icon_color=A8C3A0&text_color=F5F7F3" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVitorino09&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=9DB8A5&text_color=FFFFFF&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaVitorino09&layout=compact&theme=transparent&hide_border=true&title_color=A8C3A0&text_color=F5F7F3&langs_count=8" height="180"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=MariaVitorino09&theme=dark&hide_border=true&background=0D0D0D&ring=9DB8A5&fire=9DB8A5&currStreakLabel=9DB8A5&sideLabels=FFFFFF&dates=808080" />
+<img src="https://streak-stats.demolab.com?user=MariaVitorino09&theme=dark&hide_border=true&background=171A18&ring=A8C3A0&fire=C7D8C2&currStreakLabel=A8C3A0&sideLabels=F5F7F3&dates=9AA59B" height="180"/>
 
 </div>
 
@@ -193,7 +271,7 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaVitorino09&bg_color=0D0D0D&color=FFFFFF&line=9DB8A5&point=FFFFFF&area=true&hide_border=true&custom_title=MARIA%20VITORINO%20%E2%80%94%20ACTIVITY%20GRAPH" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaVitorino09&bg_color=171A18&color=F5F7F3&line=A8C3A0&point=C7D8C2&area=true&hide_border=true&custom_title=MARIA%20VITORINO%20%E2%80%94%20ACTIVITY%20GRAPH" width="95%"/>
 
 </div>
 
@@ -203,7 +281,7 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MariaVitorino09&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=MariaVitorino09&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
 
 </div>
 
@@ -217,20 +295,18 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 
 <img src="https://raw.githubusercontent.com/MariaVitorino09/MariaVitorino09/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-<br>
+<br><br>
 
 ```text
-       ╭──────────────────────────────────────╮
-       │       CONTRIBUTION SYSTEM ONLINE     │
-       │                                      │
-       │    ███╗   ███╗ █████╗ ██████╗       │
-       │    ████╗ ████║██╔══██╗██╔══██╗      │
-       │    ██╔████╔██║███████║██████╔╝      │
-       │    ██║╚██╔╝██║██╔══██║██╔══██╗      │
-       │    ██║ ╚═╝ ██║██║  ██║██║  ██║      │
-       │                                      │
-       │        KEEP BUILDING. KEEP CODING.   │
-       ╰──────────────────────────────────────╯
+╭──────────────────────────────────────────────╮
+│                                              │
+│       CONTRIBUTION SYSTEM // ONLINE         │
+│                                              │
+│       CODE → COMMIT → LEARN → REPEAT        │
+│                                              │
+│       Every contribution is another step.   │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 </div>
@@ -242,27 +318,32 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 ```text
 > booting development environment...
 
-[OK] HTML ................. ONLINE
-[OK] CSS .................. ONLINE
-[OK] JavaScript ........... ONLINE
-[OK] Java .................. ONLINE
-[OK] Python ................ ONLINE
-[OK] SQL ................... ONLINE
-[OK] Git ................... ONLINE
-[OK] GitHub ................ ONLINE
-[OK] Blender ............... ONLINE
-[OK] Postman ............... ONLINE
+[ONLINE] HTML
+[ONLINE] CSS
+[ONLINE] JavaScript
+[ONLINE] Java
+[ONLINE] Python
+[ONLINE] SQL
+[ONLINE] Git
+[ONLINE] GitHub
+[ONLINE] MySQL
+[ONLINE] Postman
 
-> loading next objectives...
+> loading current objectives...
 
 [+] React
 [+] Advanced Programming
-[+] Unity
 [+] Web Development
-[+] Full Stack Architecture
+[+] Full Stack
+[+] Internship
+
+> experimental modules...
+
+[OPTIONAL] Unity
+[OPTIONAL] Blender
 
 > system message:
-> "The best way to predict the future is to build it."
+> "Learn something new. Build something real."
 ```
 
 ---
@@ -272,19 +353,19 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 <div align="center">
 
 <a href="https://github.com/MariaVitorino09">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-171A18?style=for-the-badge&logo=github&logoColor=F5F7F3"/>
 </a>
 
 <a href="https://www.linkedin.com/in/maria-vitorino-7a5035369/">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=9DB8A5"/>
+<img src="https://img.shields.io/badge/LinkedIn-304233?style=for-the-badge&logo=linkedin&logoColor=C7D8C2"/>
 </a>
 
 <a href="https://instagram.com/_mariavxss">
-<img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=9DB8A5"/>
+<img src="https://img.shields.io/badge/Instagram-304233?style=for-the-badge&logo=instagram&logoColor=C7D8C2"/>
 </a>
 
 <a href="mailto:dev.maria.vitorino@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=9DB8A5"/>
+<img src="https://img.shields.io/badge/Email-304233?style=for-the-badge&logo=gmail&logoColor=C7D8C2"/>
 </a>
 
 </div>
@@ -298,17 +379,18 @@ Tenho interesse especial em evoluir como desenvolvedora, aprender novas tecnolog
 ```text
 ╭────────────────────────────────────────────────────╮
 │                                                    │
-│   BUILDING SYSTEMS.                               │
-│   LEARNING EVERY DAY.                             │
-│   CREATING WHAT COMES NEXT.                       │
+│        LEARN. BUILD. EVOLVE.                      │
 │                                                    │
-│   STATUS :: ONLINE                                │
-│   ACCESS :: PUBLIC                                │
-│   VERSION :: 2026                                 │
+│        SOFTWARE DEVELOPMENT                       │
+│        WEB DEVELOPMENT                             │
+│        FULL STACK // FUTURE TARGET                 │
+│                                                    │
+│        STATUS :: ONLINE                           │
+│        VERSION :: 2026                            │
 │                                                    │
 ╰────────────────────────────────────────────────────╯
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0D0D0D,50:18251D,100:0D0D0D&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:171A18,50:304233,100:171A18&section=footer"/>
 
 </div>
