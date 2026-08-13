@@ -192,7 +192,7 @@ Também exploro tecnologias diferentes em projetos específicos, como **Unity e 
 </td>
 
 </tr>
-</table>
+
 ---
 
 ## `06 // GITHUB_ANALYTICS`
